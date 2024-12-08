@@ -4,4 +4,4 @@ onload = () =>{
 // Show the message after a delay
 setTimeout(function() {
     document.getElementById('message').style.display = 'block';
-}, 2000); // Adjust the time as needed (5000ms = 5 seconds)
+}, 5000); // Adjust the time as needed (5000ms = 5 seconds)
